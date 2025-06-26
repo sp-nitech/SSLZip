@@ -1,0 +1,5 @@
+onnxruntime
+soundfile
+torch
+torchaudio
+transformers
