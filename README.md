@@ -31,9 +31,12 @@ print(z.shape)
 
 ## Pretrained Models
 
+The pretrained models were developed using the LibriSpeech corpus and are distributed under the same license (CC BY 4.0).  
+Please include credit to Nagoya Institue of Technology and Techno Speech, Inc. when using these models.
+
 | Upstream Model | Dimensions | w/ CLUB | ONNX Model |
 | -------------- | ---------- | ------- | ---------- |
-| HuBERT Base    | 256        | ✔️       | [link](https://huggingface.co) |
+| HuBERT Base    | 256        | ✓       | [link](https://huggingface.co) |
 | HuBERT Base    | 256        |         | [link](https://huggingface.co) |
 | HuBERT Base    | 16         |         | [link](https://huggingface.co) |
 
@@ -42,7 +45,7 @@ print(z.shape)
 ```bibtex
 @InProceedings{sp-nitech2023sptk,
   author = {Takenori Yoshimura and Shinji Takaki and Kazuhiro Nakamura and Keiichiro Oura and Takato Fujimoto and Kei Hashimoto and Yoshihiko Nankaku and Keiichi Tokuda},
-  title = {{SSLZip}:Simple autoencoding for enhancing self-supervised speech representations in speech generation},
+  title = {{SSLZip}: Simple autoencoding for enhancing self-supervised speech representations in speech generation},
   booktitle = {13th ISCA Speech Synthesis Workshop (SSW 2025)},
   pages = {xxx--xxx},
   year = {2025},
