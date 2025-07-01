@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+#
+# Copyright (c) 2025 Nagoya Institute of Technology and Techno-Speech, Inc.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
 
 """Infer script for the SSLZip autoencoder model."""
 
