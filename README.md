@@ -47,7 +47,7 @@ Please include credit to Nagoya Institue of Technology and Techno-Speech, Inc. w
   author = {Takenori Yoshimura and Shinji Takaki and Kazuhiro Nakamura and Keiichiro Oura and Takato Fujimoto and Kei Hashimoto and Yoshihiko Nankaku and Keiichi Tokuda},
   title = {{SSLZip}: Simple autoencoding for enhancing self-supervised speech representations in speech generation},
   booktitle = {13th ISCA Speech Synthesis Workshop (SSW 2025)},
-  pages = {xxx--xxx},
+  pages = {117--122},
   year = {2025},
 }
 ```
